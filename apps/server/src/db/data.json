@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": "6251643b0ae386b94bc0cbe5",
+      "city": "Haring",
+      "email": "proident@magnemo.abb",
+      "company": "Magnemo",
+      "country": "Ecuador",
+      "username": "proident"
+    },
+    {
+      "id": "6251643b757ddd0b81f2229e",
+      "city": "Galesville",
+      "email": "reprehenderit@klugger.navy",
+      "company": "Klugger",
+      "country": "Malawi",
+      "username": "reprehenderit"
+    },
+    {
+      "id": "6251643bc75fba6629a58880",
+      "city": "Odessa",
+      "email": "nulla@inquala.cr",
+      "company": "Inquala",
+      "country": "Belize",
+      "username": "nulla"
+    },
+    {
+      "id": "6251643bb0e2f70b99f2f193",
+      "city": "Rew",
+      "email": "aute@enervate.brother",
+      "company": "Enervate",
+      "country": "Iceland",
+      "username": "aute"
+    }
+  ],
+  "posts": [
+    {
+      "id": "6251652186968d16cfcaf31c",
+      "userId": "6251643b757ddd0b81f2229e",
+      "body": "Labore ut mollit ex minim consectetur ad nostrud laboris quis."
+    },
+    {
+      "id": "625165211fc554b8e361fea5",
+      "userId": "6251643bb0e2f70b99f2f193",
+      "body": "Fugiat excepteur quis velit ea duis qui dolor ea eu est incididunt irure."
+    },
+    {
+      "id": "625165214b864ca8db6b37a4",
+      "userId": "6251643b757ddd0b81f2229e",
+      "body": "Aliquip ut esse consectetur laboris eu labore."
+    },
+    {
+      "id": "62516521560439d9e833a460",
+      "userId": "6251643b757ddd0b81f2229e",
+      "body": "Ea ipsum laboris ipsum ipsum eu mollit."
+    },
+    {
+      "id": "62516521e12145a6ecd06df9",
+      "userId": "6251643bb0e2f70b99f2f193",
+      "body": "Sit fugiat ullamco deserunt commodo eiusmod qui eiusmod aute ea ad cupidatat consequat in id."
+    },
+    {
+      "id": "62516521d5385ce50ae7a96d",
+      "userId": "6251643b0ae386b94bc0cbe5",
+      "body": "Laborum incididunt minim fugiat culpa elit duis."
+    },
+    {
+      "id": "625165213f2ed7211c71d5df",
+      "userId": "6251643bc75fba6629a58880",
+      "body": "Eiusmod officia quis eiusmod eiusmod do quis occaecat."
+    },
+    {
+      "id": "625165218d97cf1abf8e1a66",
+      "userId": "6251643b0ae386b94bc0cbe5",
+      "body": "Ipsum aliquip ullamco elit voluptate minim cupidatat duis ipsum elit commodo enim occaecat aliqua."
+    },
+    {
+      "id": "62516521ec727de14fccb26f",
+      "userId": "6251643bc75fba6629a58880",
+      "body": "Velit dolore dolore officia aute sit minim aliqua ullamco."
+    },
+    {
+      "id": "6251652136818c46370dcfc4",
+      "userId": "6251643b0ae386b94bc0cbe5",
+      "body": "Aliquip nisi dolore commodo aliquip esse culpa excepteur dolor eiusmod elit aute excepteur sint labore."
+    },
+    {
+      "id": "62516521e989d75b503ff5c4",
+      "userId": "6251643b757ddd0b81f2229e",
+      "body": "Aliqua ullamco laboris ut eiusmod exercitation veniam."
+    },
+    {
+      "id": "625165215d01eb8014f6aa98",
+      "userId": "6251643bb0e2f70b99f2f193",
+      "body": "Reprehenderit duis officia fugiat ipsum officia non reprehenderit aute quis non proident."
+    }
+  ]
+}
